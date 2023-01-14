@@ -143,7 +143,9 @@ header .container .col-md-7 p {
 /********** section 1 **************/
 
 .section-1 {
-  padding: 20vmin 0vmin;
+  /* padding: 20vmin 0vmin; */
+  padding-top: 5rem;
+  padding-bottom: 45rem;
 }
 
 .section-1 .row .col-md-6 .pray img {
@@ -485,8 +487,8 @@ footer .column i + i {
 }
 .main {
   background-image: url(darkwallpaper.jpg);
-  padding-top: 10rem;
-  padding-bottom: 10rem;
+  padding-top: 19rem;
+  padding-bottom: 27rem;
 }
 .data {
   overflow: hidden;
